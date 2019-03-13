@@ -7,6 +7,13 @@ Text2UI is a design tool aimed at the rapid generation of digital wireframes. Wi
 # Format 
 Currently text2UI uses a lexical format as follows:
 
-<Element Name>, <Element Metadata>.
+Element Name, Metadata.
 
-Where the commas separate element name and metadata, and the period marks the end of the command
+Where the commas separate element name and metadata, and the period marks the end of the command. The current elements available are:
+
+Search, Placeholder Text.
+Header, Header Text.
+Item, Item Title, Button Title.
+Button, Button Text. 
+
+
