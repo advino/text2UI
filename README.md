@@ -11,6 +11,8 @@ Element Name, Metadata.
 
 Where the commas separate element name and metadata, and the period marks the end of the command. The current elements available are:
 
+## Elements
+
 Search, Placeholder Text.
 
 Header, Header Text.
